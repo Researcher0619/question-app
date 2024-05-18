@@ -1,0 +1,17 @@
+.app-container {
+  border: 2px solid #525c5d;
+  border-radius: 20px;
+  height: auto;
+  width: 80%;
+  background-color: #acb8b9;
+  margin-top: 5%;
+  min-width: 650px;
+  padding-bottom: 54px;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 54px 54px;
+}

@@ -1,0 +1,31 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 250px;
+    gap: 100px;
+  }
+
+  .login p {
+    font-size: 24px;
+  }
+
+  #start {
+    width: 350px;
+    height: 75px;
+    font-size: 44px;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(140, 146, 136);
+    cursor: pointer;
+  }
+
+  #start:hover {
+    background-color: #a6bc9c;
+    color: #121517;
+  }
+
+  #start:active {
+    background-color: black;
+    color: rgb(111, 60, 60);
+  }
